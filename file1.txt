@@ -5,3 +5,5 @@ text lol
 kek azaza
 
 file from user2
+
+line from user1
