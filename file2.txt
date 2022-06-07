@@ -3,3 +3,5 @@ commit 2
 commit3
 
 line from user2
+
+critical bags fixed
