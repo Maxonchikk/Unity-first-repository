@@ -5,6 +5,9 @@ text lol
 kek azaza
 
 hello from user2
-line from user1 lesson about rebase
+
+line from user1
 
 some new feature
+
+line from user1 lesson about rebase
